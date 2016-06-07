@@ -1,0 +1,37 @@
+
+.description
+{
+		border: 1px solid black;
+		color: darkgrey;
+		padding:10px ;
+		border-style: dotted;
+		border-left-style: solid;
+		background-color: #FFA500;
+}
+
+.heading
+{
+		color:blue;
+		font-size: 40px
+}
+
+.image
+{
+	width:200px;
+	position:relative;
+
+}
+
+.chart {
+    width: 1000px;
+    height: 100px;
+}
+
+.circ1 {
+    fill: aliceblue;
+}
+.circ2 {
+    stroke: pink; 
+    fill: seashell;
+    stroke-width: 10;
+}
